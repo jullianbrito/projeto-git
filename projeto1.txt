@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Linha adicionada na nova branch
+=======
+Alterado conteudo da branch main
+>>>>>>> origin/main
